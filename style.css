@@ -1,0 +1,16 @@
+.bg-custom-purple {
+    background-color: #6a3bc9; 
+}
+
+.bg-custom-orange {
+    background-color: #F28D35; 
+}
+
+.space-x-8 > li {
+    display: inline; 
+    white-space: nowrap; /* Prevent wrapping */
+}
+
+.space-x-8 > li + li {
+    margin-left: 8px; 
+}
